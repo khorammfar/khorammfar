@@ -2,7 +2,7 @@
 - 👀 I’m interested in
   - Python
   - Django
-  - Telegram Api
+  - Telegram-api
   - JavaScript
   - Golang
 - 🌱 I’m currently learning
