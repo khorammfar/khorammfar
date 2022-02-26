@@ -5,6 +5,8 @@
   - Telegram-api
   - JavaScript
   - Golang
+  - React
+  - Node.js 
 - 🌱 I’m currently learning
   - First of all, I'm trying to get better at Python
   - Second, learn a little Golang
