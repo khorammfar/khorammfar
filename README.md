@@ -9,7 +9,7 @@
   - Node.js 
 - 🌱 I’m currently learning
   - First of all, I'm trying to get better at Python
-  - Second, learn a little Golang
+  - Second, learn a little React and Node.js 
 - 📫 How to reach me
   - Telegram <a href='https://t.me/khorammfar'>@khorammfar</a>
   - Email <a href='email:hrkh17000@gmail.com'>hrkh17000@gmail.com</a>
